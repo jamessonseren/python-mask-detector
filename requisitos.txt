@@ -1,7 +1,11 @@
 flask
-opencv-python
+flask_cors
+PIL
 numpy
+tensorflow
+cv
+io
+opencv-python
 pandas
 scikit-learn
 joblib
-flask_cors
